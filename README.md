@@ -1,2 +1,3 @@
-# Semantic-Similarity-for-LOs
-Semantic similarity algorithm to assess the similarity between learning outcomes.
+# Automated Transfer Credit Assessment
+
+Model to estimate course to course similarity based on semantic similarity between learning outcomes

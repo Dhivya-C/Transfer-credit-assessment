@@ -1,0 +1,7 @@
+﻿RLO,SLO
+Define and explain the notion of an algorithm,"Understand the implementation, complexity analysis, and applications of fundamental algorithms such as max flow and linear programming"
+Explain what is meant by an efficient algorithm,"Analyse and use some fundamental data structures, such as binary search trees and disjoint sets"
+Define and explain (on an intuitive level) the time and space complexity of an algorithm,"Have some familiarity with randomized algorithms, approximation algorithms, and fixed-parameter algorithms"
+Use algorithms learned in lectures to solve interesting problems in lab sessions,
+Design improved algorithms,
+Differentiate between elegant and inelegant algorithms,

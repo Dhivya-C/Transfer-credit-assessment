@@ -1,8 +1,0 @@
-﻿RLO,SLO
-"Develop applications using systematic knowledge of contemporary database architectures and data models (e.g., relational model, object-oriented model).","Understand the relational model, and know how to translate requirements captured in an Entity-Relationship diagram into a relational schema"
-Implement appropriate security and recovery procedures for databases.,Be able to reason about dependencies in a relational schema
-Research and apply the latest database management strategies,"Understand normal form schemas, and the decomposition process by which normal forms are obtained"
-"Evaluate and compare different data models, as well as select and implement the most appropriate models.",Use relational query languages such as SQL
-Recognize and discuss the importance of protecting data against component faults and from unauthorized access.,Understand equivalences within relational algebra and their use in query optimization
-Describe and explain how other components of an application will interface with the database,Understand indexing and its role in query plans
-,Be able to create database-driven web interfaces
